@@ -38,5 +38,11 @@ export const projects = [
     image: "./img/formJs.png",
     title: "SignIn form with JS",
     link: "https://hasmik20.github.io/signInJS/"
+  },
+   {
+    id: 7,
+    image: "./img/memoryGame.jpg",
+    title: "Memory Game with JS",
+    link: "https://hasmik20.github.io/memoryGameJs/"
   }
 ]
