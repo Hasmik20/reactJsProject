@@ -7,8 +7,6 @@ export const projects = [
     title: "Slide-Show with react",
     link: "https://hasmik20.github.io/slide-show-react/"
   },
-  
-
   {
     id: 2,
     image: "./img/clock.png",
@@ -23,26 +21,33 @@ export const projects = [
   },
   {
     id: 4,
+    image: "./img/memoryGame.jpg",
+    title: "Memory Game with JS",
+    link: "https://hasmik20.github.io/memoryGameJs/"
+  },
+   {
+    id: 5,
+    image: "./img/memoryReact.jpg",
+    title: "Memory Game with React",
+    link: "https://hasmik20.github.io/MemoryGameReact/"
+  },
+  {
+    id: 6,
     image: "./img/table.png",
     title: "Dynamic Table with JS",
     link: "https://hasmik20.github.io/dynamicTableJs/"
   },
    {
-    id: 5,
+    id: 7,
     image: "./img/fetchJS.png",
     title: "Post/Get (Fetch) with JS",
     link: "https://hasmik20.github.io/fetchJs/"
   },
    {
-    id: 6,
+    id: 8,
     image: "./img/formJs.png",
     title: "SignIn form with JS",
     link: "https://hasmik20.github.io/signInJS/"
-  },
-   {
-    id: 7,
-    image: "./img/memoryGame.jpg",
-    title: "Memory Game with JS",
-    link: "https://hasmik20.github.io/memoryGameJs/"
   }
+   
 ]
