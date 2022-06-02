@@ -15,7 +15,7 @@ export const projects = [
   },
      {
     id: 3,
-    image: "./img/shop.png",
+    image: "./img/shop.jpg",
     title: "Shop with React-Redux",
     link: "https://hasmik20.github.io/ReactReduxShop/"
   },
