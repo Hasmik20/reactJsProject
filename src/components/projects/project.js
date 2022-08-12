@@ -9,7 +9,7 @@ export const projects = [
   },
   {
     id: 2,
-    image: "./img/design.png",
+    image: "./img/design.jpg",
     title: "Interior page with React",
     link: "https://hasmik20.github.io/interior/"
   },
