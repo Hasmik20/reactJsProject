@@ -7,30 +7,36 @@ export const projects = [
     title: "Food Menu with React",
     link: "https://hasmik20.github.io/menuReact/"
   },
-    {
+  {
     id: 2,
+    image: "./img/design.png",
+    title: "Interior page with React",
+    link: "https://hasmik20.github.io/interior/"
+  },
+    {
+    id: 3,
     image: "./img/slideShow.png",
     title: "Slide-Show with React",
     link: "https://hasmik20.github.io/slide-show-react/"
   },
      {
-    id: 3,
+    id: 4,
     image: "./img/shop.jpg",
     title: "Shop with React-Redux",
     link: "https://hasmik20.github.io/ReactReduxShop/"
   },
   {
-    id: 4,
+    id: 5,
     image: "./img/clock.png",
     title: "Clock with React",
     link: "https://hasmik20.github.io/clock-react/"
   },
-  {
-    id: 5,
-    image: "./img/moveItem.png",
-    title: "Circle with React",
-    link: "https://hasmik20.github.io/movingItemReact/"
-  },
+  // {
+  //   id: 5,
+  //   image: "./img/moveItem.png",
+  //   title: "Circle with React",
+  //   link: "https://hasmik20.github.io/movingItemReact/"
+  // },
   {
     id: 6,
     image: "./img/memoryGame.jpg",
